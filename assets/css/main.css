@@ -1,3 +1,23 @@
+@import "../bootstrap-icons.css";
+
 h1{
-    color:blue;
+ color:#FFAB00;
+}
+.hero {
+    height: 800px;
+    width: 100%;
+    margin-bottom: 25px;
+    background-image: url("https://images.squarespace-cdn.com/content/v1/593cb752579fb3fa4a713ff4/1576162483524-YTNQCE03WIZN3OL5LQRN/ke17ZwdGBToddI8pDm48kLkXF2pIyv_F2eUT9F60jBl7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0iyqMbMesKd95J-X4EagrgU9L3Sa3U8cogeb0tjXbfawd0urKshkc5MgdBeJmALQKw/Flower+Tribe+Backyard-3014.jpg?format=2500w");
+    background-size: cover;
+    background-position: center;
+   
+  } 
+.ramya-top-name{
+  margin-top: 150px;
+}
+
+@media screen and (min-width: 768px){
+  .ramya-top-name{
+
+  }
 }
