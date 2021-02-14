@@ -9945,7 +9945,7 @@ h3 {
   }
 }
 .page-section {
-  padding: 6rem 0;
+  padding: 8rem 0;
 }
 .page-section .page-section-heading {
   font-size: 2.25rem;
@@ -10199,4 +10199,8 @@ form .row:first-child .floating-label-form-group {
 
 .copyright {
   background-color: #1a252f;
+}
+
+.Project{
+  height:420px;
 }
