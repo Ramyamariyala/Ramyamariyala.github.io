@@ -10203,4 +10203,9 @@ form .row:first-child .floating-label-form-group {
 
 .Project{
   height:420px;
+  border-style: groove;
+ border-width: thick;
+ border-color: brown;
+ padding: 5px;
+ float: left;
 }
